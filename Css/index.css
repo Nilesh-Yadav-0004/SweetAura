@@ -94,4 +94,10 @@ li:hover{
     opacity: 1;
   }
 }
+.heading{
+  text-align: center;
+  margin:40px 0px;
+  font-weight: normal;
+  font-size:40px;
+}
 /* SLIDER_CODE_END */
