@@ -189,7 +189,7 @@ button{
 }
 
 .Flavours_div{
-  height:700px;
+  height:750px;
   margin:70px 0px;
   background-color: rgb(169, 196, 184);
 }
@@ -201,6 +201,32 @@ button{
 .text_1{
   font-size:45px;
   margin:35px 0px;
-  padding: 0px 30px;
+  padding: 20px 30px;
   color: rgb(140, 41, 21);
+}
+
+/*  */
+.img_4{
+  width:200px;
+  height:180px;
+}
+
+.Flavours_div3{
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  justify-items: center;
+  align-content: center;
+  gap:30px;
+  margin:0px 300px;
+  text-align: center;
+}
+.Flavours_text{
+  font-size: 16px;
+  text-transform:uppercase;
+  letter-spacing:0.5px;
+  padding: 10px 0px;
+}
+.img_4:hover{
+  border-radius: 50%;
+  transition: all ease-in-out 0.5s;
 }
