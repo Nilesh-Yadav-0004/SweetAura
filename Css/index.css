@@ -264,7 +264,7 @@ hr{
 }
 .Sign{
   font-size:40px;
-  margin:0px 40px;
+  margin:0px 50px;
   margin-top:60px;
   letter-spacing: 1px;
   text-transform: capitalize;
@@ -275,7 +275,7 @@ hr{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin:0px 40px;
+  margin:0px 50px;
   margin-top:7px;
   margin-bottom:70px;
 }
@@ -332,7 +332,7 @@ hr{
 }
 .footer_div4{
   display: flex;
-  margin: 0px 40px;
+  margin: 0px 50px;
   justify-content: space-between;
   align-items: center;
 }
@@ -360,7 +360,7 @@ hr{
 }
 .fonticon{
   display: flex;
-  margin:0px 40px;
+  margin:0px 50px;
   margin-top: 40px;
   /* padding-bottom:20px; */
   justify-content: start;
