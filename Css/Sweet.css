@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;    
+}
+
+.maindiv{
+   border: 2px solid red;
+}
+.img_1{
+    width:270px;
+    height:280px;
+}
+.Storedata{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 30px;
+    justify-items: center;
+    align-content:center;
+    margin: auto;
+    width:90%;
+}
+.TP_div{
+    display: grid;
+    justify-items: center;
+    align-content: center;
+    font-size:17px;
+    letter-spacing:1.5px;
+    gap:5px;
+    height: 80px;
+    margin-top: 20px;
+    background-color: #dd3333;
+    color: aliceblue;
+}
+.img_div{
+  margin: 20px;
+}
