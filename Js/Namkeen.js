@@ -1,4 +1,4 @@
-const api = `https://fashion-studio.onrender.com/sweets`;
+const api = `https://fashion-studio.onrender.com/Namkeen`;
 
 const Apicall = () => {
   fetch(api)
