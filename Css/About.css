@@ -69,7 +69,8 @@ li:hover{
     background-color:#000000;
     color:#f3f3f3;
     border:1px dashed black;
-    height: 700px;
+    height:1800px;
+    margin: 90px 0px;
 }
 
 .btn_div{
@@ -80,7 +81,7 @@ li:hover{
 }
 .btn_1{
     width:200px;
-    height:55px;
+    height:52px;
     background: transparent;
     color: #fff;
     text-transform: uppercase;
@@ -91,4 +92,228 @@ li:hover{
 .btn_1:hover{
     background-color: #de3333;
     transition:all ease-in-out 2s;
+}
+
+.imglogo_2{
+  width: 500px;
+  height: 250px;
+  margin: 30px 0px;
+
+}
+.logoimg_3{
+    width:300px;
+    height:400px;
+}
+.imglogo_4{
+    width:300px;
+    height:300px;
+}
+.maindiv_child1{
+    display: flex;
+   justify-content: center;
+  margin: auto;
+  width:73%;
+
+}
+
+.maindiv_child2{
+  border:1px solid red;
+  border-bottom: none;
+  border-left: none;
+  border-top: none;
+padding-right: 50px !important;
+padding-top:60px;   
+}
+.imgshopes{
+    width:550px;
+    height:250px;
+}
+.text_2{
+    margin: auto;
+    width: 80%;
+    font-size:22px;
+    letter-spacing: 1px;
+    text-align: end;
+}
+.text_2:hover{
+    color: red;
+}
+.text_3{
+   margin: auto;
+    width:80%;
+    font-size:20px;
+    letter-spacing: 1px;
+    text-align: end;
+    margin: 15px 0px;
+    margin-left: 45px;
+    color: red; 
+}
+
+.history_div{
+ display: grid;
+ justify-items: center;
+}
+.history_1{
+    font-size:18px;
+    letter-spacing:1px;
+    line-height:27px;
+    margin: 10px 0px;
+}
+.maindiv_child3{
+    width:90%;
+    padding-top:60px;
+    margin: auto;
+}
+.Mukhi{
+    font-size:22px;
+    margin: 30px 0px;
+    letter-spacing: 1px;
+}
+.Mukhi_1{
+    font-size:19px;
+    color: red;
+    margin-bottom: 20px;
+}
+.Mukhi:hover{
+    color: red;
+}
+.Mukhi_imglogo{
+    width:400px;
+    height: 200px;
+}
+.settled{
+    font-size:18px;
+    letter-spacing:1px;
+    line-height:27px;
+    margin-top:80px;
+}
+.img_Mukhilogo{
+    width:500px;
+    height: 250px;
+    margin: 50px 0px;
+}
+
+
+/*  */
+
+
+/* footer */
+hr{
+  margin:40px 0px;
+}
+.Sign{
+  font-size:40px;
+  margin:0px 50px;
+  margin-top:60px;
+  letter-spacing: 1px;
+  text-transform: capitalize;
+  word-spacing: 2px;
+}
+
+.footer_div3{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin:0px 50px;
+  margin-top:7px;
+  margin-bottom:70px;
+}
+.email_div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.footer_text{
+  font-size:30px;
+
+  color: rgb(105, 105, 104);
+}
+.email_inpu{
+  border: 1px solid rgb(105, 105, 104);
+  width:430px;
+  border-radius: 10px;
+  height:60px;
+  font-size:20px;
+  padding:18px 15px;
+  word-spacing: 1px;
+  letter-spacing:0.5px;
+  font-weight: bold;
+}
+.subscribe{
+  width:200px;
+   height:60px;
+   background-color: black;
+   text-transform: uppercase;
+   color: #fdfcfc;
+}
+
+.complaints{
+  font-size:30px;
+  margin: 20px 0px;
+}
+.text4{
+  font-size: 25px;
+   color: rgb(105, 105, 104);
+   word-spacing: 2px;
+  margin-bottom: 20px;
+  line-height:35px;
+
+}
+.text3{
+  font-size:21px;
+  padding: 20px 0px;
+  font-weight: bold;
+}
+.Address{
+  color: black;
+  font-size: 26px;
+}
+.footer_div4{
+  display: flex;
+  margin: 0px 50px;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer_child2{
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  align-items: center;
+}
+.email1,.GST,.call{
+  font-size:22px;
+  margin-bottom: 10px;
+   color: rgb(105, 105, 104);
+}
+.span1{
+  font-size: 25px;
+  text-transform: uppercase;
+  
+}
+.text5{
+  font-size:25px;
+  color: rgb(105, 105, 104);
+  margin-top: 15px;
+  text-transform: capitalize;
+}
+.fonticon{
+  display: flex;
+  margin:0px 50px;
+  margin-top: 40px;
+  /* padding-bottom:20px; */
+  justify-content: start;
+  align-items: start;
+  gap:30px;
+  font-size:25px;
+  color: rgb(55, 55, 55);
+}
+.footer_parents{
+  margin: 30px 0px;
+}
+.Copyright{
+  text-align:center;
+  font-size:32px;
+  word-spacing: 2px;
+  padding-bottom:30px;
 }
