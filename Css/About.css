@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;    
+}
+li{
+  font-size: 20px;
+}
+.navbar{
+    border: 1px solid  transparent;
+    background-color: #f3f3f3;
+    display: flex;
+    height:80px;
+    justify-content: space-around;
+    align-items: center ;
+}
+ul{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 30px;
+    letter-spacing:0.5px;
+    font-size:18px;
+    text-transform: capitalize;
+    list-style: none;
+}
+
+.cart>i{
+  font-size:25px;
+}
+.logo_1{
+    width: 150px;
+}
+.home{
+    color: red;
+}
+li:hover{
+    color: red;
+}
+.bg_1{
+    width: 100%;
+    object-fit: cover;
+    height:600px;
+}
+
+/* Navbar_End_code */
+
+.parents_1{
+    display: grid;
+    justify-items: center;
+    align-content: center;
+    margin:35px 0px;
+    font-size:18px;
+}
+
+.text_1{
+    text-align: center;
+    margin: auto;
+    font-size:19px;
+    word-spacing:1px;
+    letter-spacing:1px;
+    width:80%;
+}
+
+/*  */
+
+.main_div{
+    background-color:#000000;
+    color:#f3f3f3;
+    border:1px dashed black;
+    height: 700px;
+}
+
+.btn_div{
+    display: grid;
+    justify-items:center;
+    align-content: center;
+    margin-top:80px;
+}
+.btn_1{
+    width:200px;
+    height:55px;
+    background: transparent;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 17px;
+    letter-spacing: 1px;
+    border:2px solid red;
+}
+.btn_1:hover{
+    background-color: #de3333;
+    transition:all ease-in-out 2s;
+}
