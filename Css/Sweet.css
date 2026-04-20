@@ -205,3 +205,12 @@ hr{
   word-spacing: 2px;
   padding-bottom:30px;
 }
+
+.head{
+  text-align: center;
+  margin:40px 0px;
+  font-style: italic;
+  font-size:30px;
+  text-decoration:underline;
+  color: #dd3333;
+}
