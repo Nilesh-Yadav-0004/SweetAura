@@ -16,6 +16,7 @@ const FuncData = (data) => {
     let maindiv = document.createElement("div");
     let img_div = document.createElement("div");
     let TP_div = document.createElement("div");
+    console.log('🚀 ~ let:', let);
     let img = document.createElement("img");
     let title = document.createElement("p");
     let price = document.createElement("price");
